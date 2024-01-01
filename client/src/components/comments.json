@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Queen Rhaenyra",
+        "comment": "Since we changed our transportation method from dragons to cars, Carfit has been the best option for me to buy cars online.",
+        "rating": 0
+    },
+    {
+        "id": 0,
+        "name": "Bruce Wayne",
+        "comment": "In my opinion Carfit is the best website for buying cars online. I can even find cars that are as fast as my Batmobile.",
+        "rating": 1
+    },
+    {
+        "id": 2,
+        "name": "Satoru Gojo",
+        "comment": "私が世界最強なのに、このサイトに載っている車がとても良いので、車を買いたくなります。",
+        "rating": 0
+    }
+]
